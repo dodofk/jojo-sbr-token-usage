@@ -1,0 +1,9 @@
+{
+  "name": "jojo-sbr-token-usage",
+  "version": "0.1.0",
+  "description": "Context window usage as one line above the prompt, told as a Steel Ball Run race: Gyro's five lessons and a horse running to the finish flag.",
+  "author": {
+    "name": "dodofk"
+  },
+  "license": "Apache-2.0"
+}

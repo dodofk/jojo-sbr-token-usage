@@ -1,0 +1,14 @@
+{
+  "name": "jojo-sbr-token-usage",
+  "description": "One mod: context window usage above the Claude Code prompt, told as a Steel Ball Run race.",
+  "owner": {
+    "name": "dodofk"
+  },
+  "plugins": [
+    {
+      "name": "jojo-sbr-token-usage",
+      "source": "./",
+      "description": "Context window usage above the prompt, told as a Steel Ball Run race."
+    }
+  ]
+}
